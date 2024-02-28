@@ -1,4 +1,4 @@
-sFhxtd# Airbnb JavaScript Style Guide() {
+thshtsFhxtd# Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
